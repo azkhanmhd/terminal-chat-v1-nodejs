@@ -6,10 +6,10 @@
 
 - Terminal-Based Real-Time Messaging.
 - Client-2-Client Encryption Using a Shared Key.
-- Shared Key is Also Used To Connect Clients To a Chat Room
-- Client Has to Enter Only a Name & a Shared Key (Clients Decides The Key)
-- Separate Client and Server Modules For More Protection And Development
-- Chalk-Colored Output For Better Readability
+- Shared Key is Also Used To Connect Clients To a Chat Room.
+- Client Has to Enter Only a Name & a Shared Key. (Clients Decides The Key)
+- Separate Client and Server Modules For More Protection And Development.
+- Chalk-Colored Output For Better Readability.
 
 ---
 
